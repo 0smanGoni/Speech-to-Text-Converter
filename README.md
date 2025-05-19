@@ -1,6 +1,6 @@
 # Speech to Text Converter
 The Speech to Text Converter is a Flask-based web application that transcribes audio into text using Google’s Speech Recognition API. Users can record audio via their microphone or upload a WAV file, select a language (English, Spanish, French, German), and download the transcribed text. The application features a simple, responsive interface with a background image and custom styling.
-![app_interface](static\speechtext_demo.png)
+![app_interface](static/speechtext_demo.png)
 
 ## ✨ Features
 
